@@ -1,4 +1,4 @@
-<blockquote class="alert">
+<blockquote class="announcement">
 
 # What’s Happening This Week
 ## How to explore the problem space?
