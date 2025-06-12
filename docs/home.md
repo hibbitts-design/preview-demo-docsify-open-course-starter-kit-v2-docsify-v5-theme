@@ -17,6 +17,39 @@
 
 </blockquote>
 
+<blockquote>
+  <div class="alert">
+    <h1>What’s Happening This Week</h1>
+    <h2>How to explore the problem space?</h2>
+    <h3>Important Reminders</h3>
+    <ul>
+      <li>
+        <a href="#">Journey Map</a> assignment 
+        <span class="badge"> Tue Jun 12th 11:59pm PDT</span>
+      </li>
+      <li>
+        <a href="#">Course Reflection Log</a> assignment 
+        <span class="badge"> Fri Aug 3rd 11:59pm PDT</span>
+      </li>
+    </ul>
+
+    <h3>Required Reading</h3>
+    <ul>
+      <li>
+        <a href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">
+          The Skeptic’s Guide To Low-Fidelity Prototyping
+        </a>
+      </li>
+    </ul>
+
+    <p>
+      <a href="https://canvas.sfu.ca/courses/44038/quizzes/166553" class="button">
+        Required Reading Quiz due Jun 4th
+      </a>
+    </p>
+  </div>
+</blockquote>
+
 # Looking Ahead to Next Week
 ## How to plan, conduct, and summarize usability tests?
 ### Week 5 Required Reading
