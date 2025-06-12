@@ -1,4 +1,5 @@
 <blockquote>
+  
 <div class="alert">
 
 # What’s Happening This Week
@@ -13,6 +14,7 @@
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
 </div>
+
 </blockquote>
 
 # Looking Ahead to Next Week
